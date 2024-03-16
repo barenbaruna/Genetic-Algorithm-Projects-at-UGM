@@ -25,10 +25,6 @@ This project is implemented using Python programming language and leverages seve
 7. View the displayed land allocation and fitness development.
 
 ## Contributors
-
-## Contributors
-
-## Contributors
 - Baren Baruna Harahap (23/519317/NUGM/01057)
 - Carica Deffa Yullinda (20/462179/PA/20151)
 - Elecia Budi Syabila (23/528383/NPA/19900)
